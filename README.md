@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sfrierfan5
+- 👋 Hi, I’m ErFaN
 - 👀 I’m interested in html,css,wordpress
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
